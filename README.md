@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Kaushaljoshi29/huddle-landing-page-with-curved-sections)
+- Solution URL: (https://github.com/Kaushaljoshi29/huddle-landing-page-with-curved-sections-main)
 - Live Site URL: ( https://kaushaljoshi29.github.io/huddle-landing-page-with-curved-sections/)
 
 ## My process
